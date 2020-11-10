@@ -1,0 +1,63 @@
+
+.navbar-nav > li{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 25px;
+    font-weight: bolder;
+}
+.hero-background-img {
+    background-image: url("img/bg-ice.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    /* background: rgba(0, 0, 0, 0.3); */
+    padding-top:250px;
+    padding-bottom:250px;
+}
+
+body {
+    background-image: url("/img/paper.jpeg");
+    
+}
+
+.row {
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+.info {
+    padding: 0px, 0px, 0px, 0px;
+}
+
+.jumbotron {
+    background-image: url("/img/design.jpg");
+    background-size: cover;
+    background-position: center;
+
+}
+
+.promos {
+    display: flex;
+    justify-content: flex-start;
+}
+
+.promos2 {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.sub-form {
+    background-image: url("/img/con1.jpg");
+    background-size: cover;
+    background-position: center;
+    color: black;
+}
+
+.navbar {
+    background-image: url(/img/slab.png);
+    background-size: cover;
+}
+
+p {
+    color: black;
+    font-weight: bold;
+}
